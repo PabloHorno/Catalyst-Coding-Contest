@@ -1,0 +1,1180 @@
+Entra el coche 196 APARCA
+Entra el coche 30 APARCA
+Entra el coche -196 DESAPARCA
+Entra el coche 4 APARCA
+Entra el coche -30 DESAPARCA
+Entra el coche -4 DESAPARCA
+Entra el coche 359 APARCA
+Entra el coche -359 DESAPARCA
+Entra el coche 286 APARCA
+Entra el coche 55 APARCA
+Entra el coche 139 APARCA
+Entra el coche -55 DESAPARCA
+Entra el coche -139 DESAPARCA
+Entra el coche 356 APARCA
+Entra el coche 118 APARCA
+Entra el coche -286 DESAPARCA
+Entra el coche 1 APARCA
+Entra el coche -118 DESAPARCA
+Entra el coche -1 DESAPARCA
+Entra el coche 251 APARCA
+Entra el coche -356 DESAPARCA
+Entra el coche 374 APARCA
+Entra el coche -251 DESAPARCA
+Entra el coche -374 DESAPARCA
+Entra el coche 321 APARCA
+Entra el coche -321 DESAPARCA
+Entra el coche 233 APARCA
+Entra el coche -233 DESAPARCA
+Entra el coche 128 APARCA
+Entra el coche -128 DESAPARCA
+Entra el coche 157 APARCA
+Entra el coche 267 APARCA
+Entra el coche 125 APARCA
+Entra el coche 375 APARCA
+Entra el coche 331 APARCA
+Entra el coche 49 APARCA
+Entra el coche 293 APARCA
+Entra el coche -267 DESAPARCA
+Entra el coche 184 APARCA
+Entra el coche -125 DESAPARCA
+Entra el coche 22 APARCA
+Entra el coche 24 APARCA
+Entra el coche -22 DESAPARCA
+Entra el coche 245 APARCA
+Entra el coche -24 DESAPARCA
+Entra el coche 64 APARCA
+Entra el coche 330 APARCA
+Entra el coche 191 APARCA
+Entra el coche 394 APARCA
+Entra el coche 42 APARCA
+Entra el coche -293 DESAPARCA
+Entra el coche 380 APARCA
+Entra el coche 201 APARCA
+Entra el coche -64 DESAPARCA
+Entra el coche -375 DESAPARCA
+Entra el coche -394 DESAPARCA
+Entra el coche 197 APARCA
+Entra el coche -197 DESAPARCA
+Entra el coche -42 DESAPARCA
+Entra el coche -191 DESAPARCA
+Entra el coche 202 APARCA
+Entra el coche -380 DESAPARCA
+Entra el coche -245 DESAPARCA
+Entra el coche 170 APARCA
+Entra el coche 276 APARCA
+Entra el coche -331 DESAPARCA
+Entra el coche 129 APARCA
+Entra el coche 218 APARCA
+Entra el coche -184 DESAPARCA
+Entra el coche 45 APARCA
+Entra el coche -170 DESAPARCA
+Entra el coche 5 APARCA
+Entra el coche 308 APARCA
+Entra el coche 59 APARCA
+Entra el coche 310 APARCA
+Entra el coche -330 DESAPARCA
+Entra el coche -129 DESAPARCA
+Entra el coche 195 APARCA
+Entra el coche -49 DESAPARCA
+Entra el coche 336 APARCA
+Entra el coche -218 DESAPARCA
+Entra el coche 161 APARCA
+Entra el coche 3 APARCA
+Entra el coche -59 DESAPARCA
+Entra el coche -161 DESAPARCA
+Entra el coche -336 DESAPARCA
+Entra el coche -5 DESAPARCA
+Entra el coche -310 DESAPARCA
+Entra el coche 28 APARCA
+Entra el coche -3 DESAPARCA
+Entra el coche 32 APARCA
+Entra el coche 282 APARCA
+Entra el coche 398 APARCA
+Entra el coche -157 DESAPARCA
+Entra el coche -45 DESAPARCA
+Entra el coche 122 APARCA
+Entra el coche 56 APARCA
+Entra el coche 137 APARCA
+Entra el coche 395 APARCA
+Entra el coche 223 APARCA
+Entra el coche 332 APARCA
+Entra el coche -28 DESAPARCA
+Entra el coche -32 DESAPARCA
+Entra el coche -122 DESAPARCA
+Entra el coche -195 DESAPARCA
+Entra el coche -137 DESAPARCA
+Entra el coche 287 APARCA
+Entra el coche 311 APARCA
+Entra el coche 146 APARCA
+Entra el coche 366 APARCA
+Entra el coche 341 APARCA
+Entra el coche 264 APARCA
+Entra el coche -56 DESAPARCA
+Entra el coche 179 APARCA
+Entra el coche 9 APARCA
+Entra el coche 140 APARCA
+Entra el coche -308 DESAPARCA
+Entra el coche 98 APARCA
+Entra el coche 177 APARCA
+Entra el coche -276 DESAPARCA
+Entra el coche -264 DESAPARCA
+Entra el coche -98 DESAPARCA
+Entra el coche -140 DESAPARCA
+Entra el coche -341 DESAPARCA
+Entra el coche -287 DESAPARCA
+Entra el coche 154 APARCA
+Entra el coche 301 APARCA
+Entra el coche -301 DESAPARCA
+Entra el coche 26 APARCA
+Entra el coche 147 APARCA
+Entra el coche -177 DESAPARCA
+Entra el coche 368 APARCA
+Entra el coche -147 DESAPARCA
+Entra el coche 369 APARCA
+Entra el coche 2 APARCA
+Entra el coche -146 DESAPARCA
+Entra el coche 345 APARCA
+Entra el coche 198 APARCA
+Entra el coche -198 DESAPARCA
+Entra el coche 214 APARCA
+Entra el coche 82 APARCA
+Entra el coche 362 APARCA
+Entra el coche -179 DESAPARCA
+Entra el coche -201 DESAPARCA
+Entra el coche 305 APARCA
+Entra el coche 8 APARCA
+Entra el coche 337 APARCA
+Entra el coche -2 DESAPARCA
+Entra el coche 33 APARCA
+Entra el coche -332 DESAPARCA
+Entra el coche -305 DESAPARCA
+Entra el coche -214 DESAPARCA
+Entra el coche 81 APARCA
+Entra el coche 176 APARCA
+Entra el coche 144 APARCA
+Entra el coche -362 DESAPARCA
+Entra el coche 371 APARCA
+Entra el coche -398 DESAPARCA
+Entra el coche -368 DESAPARCA
+Entra el coche 75 APARCA
+Entra el coche -33 DESAPARCA
+Entra el coche 34 APARCA
+Entra el coche -371 DESAPARCA
+Entra el coche 204 APARCA
+Entra el coche 50 APARCA
+Entra el coche -75 DESAPARCA
+Entra el coche -144 DESAPARCA
+Entra el coche 358 APARCA
+Entra el coche 328 APARCA
+Entra el coche 6 APARCA
+Entra el coche -176 DESAPARCA
+Entra el coche 228 APARCA
+Entra el coche -282 DESAPARCA
+Entra el coche -358 DESAPARCA
+Entra el coche -6 DESAPARCA
+Entra el coche 72 APARCA
+Entra el coche 261 APARCA
+Entra el coche -345 DESAPARCA
+Entra el coche 35 APARCA
+Entra el coche -50 DESAPARCA
+Entra el coche 86 APARCA
+Entra el coche 84 APARCA
+Entra el coche 323 APARCA
+Entra el coche 27 APARCA
+Entra el coche 372 APARCA
+Entra el coche -34 DESAPARCA
+Entra el coche -9 DESAPARCA
+Entra el coche -72 DESAPARCA
+Entra el coche -202 DESAPARCA
+Entra el coche 71 APARCA
+Entra el coche -82 DESAPARCA
+Entra el coche 208 APARCA
+Entra el coche -328 DESAPARCA
+Entra el coche 220 APARCA
+Entra el coche 95 APARCA
+Entra el coche -71 DESAPARCA
+Entra el coche 256 APARCA
+Entra el coche 273 APARCA
+Entra el coche 133 APARCA
+Entra el coche 344 APARCA
+Entra el coche 390 APARCA
+Entra el coche -86 DESAPARCA
+Entra el coche 102 APARCA
+Entra el coche -8 DESAPARCA
+Entra el coche 167 APARCA
+Entra el coche 236 APARCA
+Entra el coche -337 DESAPARCA
+Entra el coche 255 APARCA
+Entra el coche -323 DESAPARCA
+Entra el coche 364 APARCA
+Entra el coche 322 APARCA
+Entra el coche 78 APARCA
+Entra el coche 230En cola: 230
+Entra el coche -261Buscamos el coche -261En cola: 230
+ DESAPARCA
+ y entra el coche en cola 230
+Entra el coche 230 APARCA
+Entra el coche 53En cola: 53
+Entra el coche 353En cola: 353
+Entra el coche -344Buscamos el coche -344En cola: 53
+Buscamos el coche -344En cola: 353
+ DESAPARCA
+ y entra el coche en cola 53
+Entra el coche 53 APARCA
+Entra el coche -220Buscamos el coche -220En cola: 353
+ DESAPARCA
+ y entra el coche en cola 353
+Entra el coche 353 APARCA
+Entra el coche 257En cola: 257
+Entra el coche 62En cola: 62
+Entra el coche -81Buscamos el coche -81En cola: 257
+Buscamos el coche -81En cola: 62
+ DESAPARCA
+ y entra el coche en cola 257
+Entra el coche 257 APARCA
+Entra el coche -133Buscamos el coche -133En cola: 62
+ DESAPARCA
+ y entra el coche en cola 62
+Entra el coche 62 APARCA
+Entra el coche 38En cola: 38
+Entra el coche -364Buscamos el coche -364En cola: 38
+ DESAPARCA
+ y entra el coche en cola 38
+Entra el coche 38 APARCA
+Entra el coche -26 DESAPARCA
+Entra el coche 188 APARCA
+Entra el coche -236 DESAPARCA
+Entra el coche 61 APARCA
+Entra el coche 342En cola: 342
+Entra el coche 229En cola: 229
+Entra el coche 107En cola: 107
+Entra el coche -62Buscamos el coche -62En cola: 342
+Buscamos el coche -62En cola: 229
+Buscamos el coche -62En cola: 107
+ DESAPARCA
+ y entra el coche en cola 342
+Entra el coche 342 APARCA
+Entra el coche 396En cola: 396
+Entra el coche 113En cola: 113
+Entra el coche 317En cola: 317
+Entra el coche 291En cola: 291
+Entra el coche 67En cola: 67
+Entra el coche -188Buscamos el coche -188En cola: 229
+Buscamos el coche -188En cola: 107
+Buscamos el coche -188En cola: 396
+Buscamos el coche -188En cola: 113
+Buscamos el coche -188En cola: 317
+Buscamos el coche -188En cola: 291
+Buscamos el coche -188En cola: 67
+ DESAPARCA
+ y entra el coche en cola 229
+Entra el coche 229 APARCA
+Entra el coche -390Buscamos el coche -390En cola: 107
+Buscamos el coche -390En cola: 396
+Buscamos el coche -390En cola: 113
+Buscamos el coche -390En cola: 317
+Buscamos el coche -390En cola: 291
+Buscamos el coche -390En cola: 67
+ DESAPARCA
+ y entra el coche en cola 107
+Entra el coche 107 APARCA
+Entra el coche -273Buscamos el coche -273En cola: 396
+Buscamos el coche -273En cola: 113
+Buscamos el coche -273En cola: 317
+Buscamos el coche -273En cola: 291
+Buscamos el coche -273En cola: 67
+ DESAPARCA
+ y entra el coche en cola 396
+Entra el coche 396 APARCA
+Entra el coche -95Buscamos el coche -95En cola: 113
+Buscamos el coche -95En cola: 317
+Buscamos el coche -95En cola: 291
+Buscamos el coche -95En cola: 67
+ DESAPARCA
+ y entra el coche en cola 113
+Entra el coche 113 APARCA
+Entra el coche 41En cola: 41
+Entra el coche 239En cola: 239
+Entra el coche 183En cola: 183
+Entra el coche -84Buscamos el coche -84En cola: 317
+Buscamos el coche -84En cola: 291
+Buscamos el coche -84En cola: 67
+Buscamos el coche -84En cola: 41
+Buscamos el coche -84En cola: 239
+Buscamos el coche -84En cola: 183
+ DESAPARCA
+ y entra el coche en cola 317
+Entra el coche 317 APARCA
+Entra el coche -322Buscamos el coche -322En cola: 291
+Buscamos el coche -322En cola: 67
+Buscamos el coche -322En cola: 41
+Buscamos el coche -322En cola: 239
+Buscamos el coche -322En cola: 183
+ DESAPARCA
+ y entra el coche en cola 291
+Entra el coche 291 APARCA
+Entra el coche -395Buscamos el coche -395En cola: 67
+Buscamos el coche -395En cola: 41
+Buscamos el coche -395En cola: 239
+Buscamos el coche -395En cola: 183
+ DESAPARCA
+ y entra el coche en cola 67
+Entra el coche 67 APARCA
+Entra el coche 11En cola: 11
+Entra el coche -229Buscamos el coche -229En cola: 41
+Buscamos el coche -229En cola: 239
+Buscamos el coche -229En cola: 183
+Buscamos el coche -229En cola: 11
+ DESAPARCA
+ y entra el coche en cola 41
+Entra el coche 41 APARCA
+Entra el coche -27Buscamos el coche -27En cola: 239
+Buscamos el coche -27En cola: 183
+Buscamos el coche -27En cola: 11
+ DESAPARCA
+ y entra el coche en cola 239
+Entra el coche 239 APARCA
+Entra el coche 162En cola: 162
+Entra el coche 182En cola: 182
+Entra el coche -167Buscamos el coche -167En cola: 183
+Buscamos el coche -167En cola: 11
+Buscamos el coche -167En cola: 162
+Buscamos el coche -167En cola: 182
+ DESAPARCA
+ y entra el coche en cola 183
+Entra el coche 183 APARCA
+Entra el coche -38Buscamos el coche -38En cola: 11
+Buscamos el coche -38En cola: 162
+Buscamos el coche -38En cola: 182
+ DESAPARCA
+ y entra el coche en cola 11
+Entra el coche 11 APARCA
+Entra el coche 284En cola: 284
+Entra el coche 309En cola: 309
+Entra el coche 226En cola: 226
+Entra el coche -230Buscamos el coche -230En cola: 162
+Buscamos el coche -230En cola: 182
+Buscamos el coche -230En cola: 284
+Buscamos el coche -230En cola: 309
+Buscamos el coche -230En cola: 226
+ DESAPARCA
+ y entra el coche en cola 162
+Entra el coche 162 APARCA
+Entra el coche 387En cola: 387
+Entra el coche -41Buscamos el coche -41En cola: 182
+Buscamos el coche -41En cola: 284
+Buscamos el coche -41En cola: 309
+Buscamos el coche -41En cola: 226
+Buscamos el coche -41En cola: 387
+ DESAPARCA
+ y entra el coche en cola 182
+Entra el coche 182 APARCA
+Entra el coche -154Buscamos el coche -154En cola: 284
+Buscamos el coche -154En cola: 309
+Buscamos el coche -154En cola: 226
+Buscamos el coche -154En cola: 387
+ DESAPARCA
+ y entra el coche en cola 284
+Entra el coche 284 APARCA
+Entra el coche 163En cola: 163
+Entra el coche -342Buscamos el coche -342En cola: 309
+Buscamos el coche -342En cola: 226
+Buscamos el coche -342En cola: 387
+Buscamos el coche -342En cola: 163
+ DESAPARCA
+ y entra el coche en cola 309
+Entra el coche 309 APARCA
+Entra el coche 385En cola: 385
+Entra el coche -35Buscamos el coche -35En cola: 226
+Buscamos el coche -35En cola: 387
+Buscamos el coche -35En cola: 163
+Buscamos el coche -35En cola: 385
+ DESAPARCA
+ y entra el coche en cola 226
+Entra el coche 226 APARCA
+Entra el coche -239Buscamos el coche -239En cola: 387
+Buscamos el coche -239En cola: 163
+Buscamos el coche -239En cola: 385
+ DESAPARCA
+ y entra el coche en cola 387
+Entra el coche 387 APARCA
+Entra el coche 143En cola: 143
+Entra el coche 151En cola: 151
+Entra el coche 159En cola: 159
+Entra el coche -257Buscamos el coche -257En cola: 163
+Buscamos el coche -257En cola: 385
+Buscamos el coche -257En cola: 143
+Buscamos el coche -257En cola: 151
+Buscamos el coche -257En cola: 159
+ DESAPARCA
+ y entra el coche en cola 163
+Entra el coche 163 APARCA
+Entra el coche -67Buscamos el coche -67En cola: 385
+Buscamos el coche -67En cola: 143
+Buscamos el coche -67En cola: 151
+Buscamos el coche -67En cola: 159
+ DESAPARCA
+ y entra el coche en cola 385
+Entra el coche 385 APARCA
+Entra el coche 36En cola: 36
+Entra el coche 265En cola: 265
+Entra el coche -372Buscamos el coche -372En cola: 143
+Buscamos el coche -372En cola: 151
+Buscamos el coche -372En cola: 159
+Buscamos el coche -372En cola: 36
+Buscamos el coche -372En cola: 265
+ DESAPARCA
+ y entra el coche en cola 143
+Entra el coche 143 APARCA
+Entra el coche -385Buscamos el coche -385En cola: 151
+Buscamos el coche -385En cola: 159
+Buscamos el coche -385En cola: 36
+Buscamos el coche -385En cola: 265
+ DESAPARCA
+ y entra el coche en cola 151
+Entra el coche 151 APARCA
+Entra el coche 304En cola: 304
+Entra el coche -151Buscamos el coche -151En cola: 159
+Buscamos el coche -151En cola: 36
+Buscamos el coche -151En cola: 265
+Buscamos el coche -151En cola: 304
+ DESAPARCA
+ y entra el coche en cola 159
+Entra el coche 159 APARCA
+Entra el coche -228Buscamos el coche -228En cola: 36
+Buscamos el coche -228En cola: 265
+Buscamos el coche -228En cola: 304
+ DESAPARCA
+ y entra el coche en cola 36
+Entra el coche 36 APARCA
+Entra el coche -311Buscamos el coche -311En cola: 265
+Buscamos el coche -311En cola: 304
+ DESAPARCA
+ y entra el coche en cola 265
+Entra el coche 265 APARCA
+Entra el coche 391En cola: 391
+Entra el coche -317Buscamos el coche -317En cola: 304
+Buscamos el coche -317En cola: 391
+ DESAPARCA
+ y entra el coche en cola 304
+Entra el coche 304 APARCA
+Entra el coche -256Buscamos el coche -256En cola: 391
+ DESAPARCA
+ y entra el coche en cola 391
+Entra el coche 391 APARCA
+Entra el coche -265 DESAPARCA
+Entra el coche -61 DESAPARCA
+Entra el coche -159 DESAPARCA
+Entra el coche -366 DESAPARCA
+Entra el coche -183 DESAPARCA
+Entra el coche -113 DESAPARCA
+Entra el coche -396 DESAPARCA
+Entra el coche 378 APARCA
+Entra el coche -309 DESAPARCA
+Entra el coche -208 DESAPARCA
+Entra el coche 155 APARCA
+Entra el coche -304 DESAPARCA
+Entra el coche 174 APARCA
+Entra el coche 77 APARCA
+Entra el coche 274 APARCA
+Entra el coche 138 APARCA
+Entra el coche -223 DESAPARCA
+Entra el coche 240 APARCA
+Entra el coche -182 DESAPARCA
+Entra el coche 365 APARCA
+Entra el coche 124 APARCA
+Entra el coche -240 DESAPARCA
+Entra el coche 290 APARCA
+Entra el coche -102 DESAPARCA
+Entra el coche -255 DESAPARCA
+Entra el coche -365 DESAPARCA
+Entra el coche 44 APARCA
+Entra el coche 225 APARCA
+Entra el coche 232 APARCA
+Entra el coche 347 APARCA
+Entra el coche -290 DESAPARCA
+Entra el coche -353 DESAPARCA
+Entra el coche -78 DESAPARCA
+Entra el coche -291 DESAPARCA
+Entra el coche -36 DESAPARCA
+Entra el coche -107 DESAPARCA
+Entra el coche -284 DESAPARCA
+Entra el coche 217 APARCA
+Entra el coche -226 DESAPARCA
+Entra el coche -44 DESAPARCA
+Entra el coche -11 DESAPARCA
+Entra el coche 335 APARCA
+Entra el coche -225 DESAPARCA
+Entra el coche -174 DESAPARCA
+Entra el coche -124 DESAPARCA
+Entra el coche 119 APARCA
+Entra el coche -391 DESAPARCA
+Entra el coche 131 APARCA
+Entra el coche 169 APARCA
+Entra el coche 130 APARCA
+Entra el coche -369 DESAPARCA
+Entra el coche -77 DESAPARCA
+Entra el coche -119 DESAPARCA
+Entra el coche 302 APARCA
+Entra el coche 70 APARCA
+Entra el coche -53 DESAPARCA
+Entra el coche 134 APARCA
+Entra el coche 215 APARCA
+Entra el coche 343 APARCA
+Entra el coche -387 DESAPARCA
+Entra el coche -232 DESAPARCA
+Entra el coche -378 DESAPARCA
+Entra el coche 248 APARCA
+Entra el coche -302 DESAPARCA
+Entra el coche 238 APARCA
+Entra el coche -217 DESAPARCA
+Entra el coche 324 APARCA
+Entra el coche 263 APARCA
+Entra el coche -162 DESAPARCA
+Entra el coche 381 APARCA
+Entra el coche -70 DESAPARCA
+Entra el coche -155 DESAPARCA
+Entra el coche 7 APARCA
+Entra el coche 205 APARCA
+Entra el coche -248 DESAPARCA
+Entra el coche 298 APARCA
+Entra el coche 51 APARCA
+Entra el coche -347 DESAPARCA
+Entra el coche -163 DESAPARCA
+Entra el coche -7 DESAPARCA
+Entra el coche 292 APARCA
+Entra el coche -263 DESAPARCA
+Entra el coche 340 APARCA
+Entra el coche 320 APARCA
+Entra el coche 400 APARCA
+Entra el coche 97 APARCA
+Entra el coche 116 APARCA
+Entra el coche 280 APARCA
+Entra el coche -134 DESAPARCA
+Entra el coche 88 APARCA
+Entra el coche -381 DESAPARCA
+Entra el coche -335 DESAPARCA
+Entra el coche 20 APARCA
+Entra el coche 209 APARCA
+Entra el coche -138 DESAPARCA
+Entra el coche 145 APARCA
+Entra el coche 379 APARCA
+Entra el coche -169 DESAPARCA
+Entra el coche -131 DESAPARCA
+Entra el coche -298 DESAPARCA
+Entra el coche -324 DESAPARCA
+Entra el coche -280 DESAPARCA
+Entra el coche -130 DESAPARCA
+Entra el coche -97 DESAPARCA
+Entra el coche 96 APARCA
+Entra el coche 83 APARCA
+Entra el coche -116 DESAPARCA
+Entra el coche 160 APARCA
+Entra el coche -400 DESAPARCA
+Entra el coche -292 DESAPARCA
+Entra el coche 106 APARCA
+Entra el coche -205 DESAPARCA
+Entra el coche -143 DESAPARCA
+Entra el coche 110 APARCA
+Entra el coche 185 APARCA
+Entra el coche 12 APARCA
+Entra el coche -215 DESAPARCA
+Entra el coche 382 APARCA
+Entra el coche 370 APARCA
+Entra el coche 114 APARCA
+Entra el coche 85 APARCA
+Entra el coche 10 APARCA
+Entra el coche -12 DESAPARCA
+Entra el coche 73 APARCA
+Entra el coche -274 DESAPARCA
+Entra el coche -145 DESAPARCA
+Entra el coche -379 DESAPARCA
+Entra el coche 79 APARCA
+Entra el coche -160 DESAPARCA
+Entra el coche -20 DESAPARCA
+Entra el coche -51 DESAPARCA
+Entra el coche 360 APARCA
+Entra el coche -114 DESAPARCA
+Entra el coche -185 DESAPARCA
+Entra el coche 339 APARCA
+Entra el coche 351 APARCA
+Entra el coche -85 DESAPARCA
+Entra el coche 216 APARCA
+Entra el coche -216 DESAPARCA
+Entra el coche -370 DESAPARCA
+Entra el coche -88 DESAPARCA
+Entra el coche 175 APARCA
+Entra el coche -209 DESAPARCA
+Entra el coche 193 APARCA
+Entra el coche -360 DESAPARCA
+Entra el coche -204 DESAPARCA
+Entra el coche -79 DESAPARCA
+Entra el coche 117 APARCA
+Entra el coche -117 DESAPARCA
+Entra el coche 224 APARCA
+Entra el coche 190 APARCA
+Entra el coche -193 DESAPARCA
+Entra el coche 316 APARCA
+Entra el coche 285 APARCA
+Entra el coche 87 APARCA
+Entra el coche 65 APARCA
+Entra el coche 17 APARCA
+Entra el coche -17 DESAPARCA
+Entra el coche 181 APARCA
+Entra el coche -320 DESAPARCA
+Entra el coche -96 DESAPARCA
+Entra el coche 307 APARCA
+Entra el coche 278 APARCA
+Entra el coche -175 DESAPARCA
+Entra el coche 262 APARCA
+Entra el coche 19 APARCA
+Entra el coche -262 DESAPARCA
+Entra el coche -307 DESAPARCA
+Entra el coche -10 DESAPARCA
+Entra el coche -316 DESAPARCA
+Entra el coche -343 DESAPARCA
+Entra el coche 270 APARCA
+Entra el coche -83 DESAPARCA
+Entra el coche 150 APARCA
+Entra el coche 180 APARCA
+Entra el coche -73 DESAPARCA
+Entra el coche -224 DESAPARCA
+Entra el coche -150 DESAPARCA
+Entra el coche 268 APARCA
+Entra el coche -65 DESAPARCA
+Entra el coche 47 APARCA
+Entra el coche 21 APARCA
+Entra el coche 272 APARCA
+Entra el coche -340 DESAPARCA
+Entra el coche 15 APARCA
+Entra el coche 74 APARCA
+Entra el coche 234 APARCA
+Entra el coche 250 APARCA
+Entra el coche 361 APARCA
+Entra el coche -339 DESAPARCA
+Entra el coche -278 DESAPARCA
+Entra el coche -272 DESAPARCA
+Entra el coche 306 APARCA
+Entra el coche 258 APARCA
+Entra el coche 60 APARCA
+Entra el coche -15 DESAPARCA
+Entra el coche 269 APARCA
+Entra el coche 242 APARCA
+Entra el coche 80 APARCA
+Entra el coche 69 APARCA
+Entra el coche -234 DESAPARCA
+Entra el coche -351 DESAPARCA
+Entra el coche -258 DESAPARCA
+Entra el coche 31 APARCA
+Entra el coche 203 APARCA
+Entra el coche 222 APARCA
+Entra el coche -203 DESAPARCA
+Entra el coche 100 APARCA
+Entra el coche 329 APARCA
+Entra el coche 319 APARCA
+Entra el coche 355 APARCA
+Entra el coche -355 DESAPARCA
+Entra el coche 277 APARCA
+Entra el coche -361 DESAPARCA
+Entra el coche 158 APARCA
+Entra el coche 221 APARCA
+Entra el coche -250 DESAPARCA
+Entra el coche 43 APARCA
+Entra el coche -110 DESAPARCA
+Entra el coche -43 DESAPARCA
+Entra el coche -238 DESAPARCA
+Entra el coche 252 APARCA
+Entra el coche 300 APARCA
+Entra el coche -80 DESAPARCA
+Entra el coche -106 DESAPARCA
+Entra el coche 288 APARCA
+Entra el coche -252 DESAPARCA
+Entra el coche -47 DESAPARCA
+Entra el coche 168 APARCA
+Entra el coche -288 DESAPARCA
+Entra el coche 29 APARCA
+Entra el coche 253 APARCA
+Entra el coche 93 APARCA
+Entra el coche -19 DESAPARCA
+Entra el coche -319 DESAPARCA
+Entra el coche 271 APARCA
+Entra el coche 127 APARCA
+Entra el coche -221 DESAPARCA
+Entra el coche 115 APARCA
+Entra el coche 211 APARCA
+Entra el coche 247En cola: 247
+Entra el coche 294En cola: 294
+Entra el coche -115Buscamos el coche -115En cola: 247
+Buscamos el coche -115En cola: 294
+ DESAPARCA
+ y entra el coche en cola 247
+Entra el coche 247 APARCA
+Entra el coche -277Buscamos el coche -277En cola: 294
+ DESAPARCA
+ y entra el coche en cola 294
+Entra el coche 294 APARCA
+Entra el coche 136En cola: 136
+Entra el coche 178En cola: 178
+Entra el coche -253Buscamos el coche -253En cola: 136
+Buscamos el coche -253En cola: 178
+ DESAPARCA
+ y entra el coche en cola 136
+Entra el coche 136 APARCA
+Entra el coche 388En cola: 388
+Entra el coche -222Buscamos el coche -222En cola: 178
+Buscamos el coche -222En cola: 388
+ DESAPARCA
+ y entra el coche en cola 178
+Entra el coche 178 APARCA
+Entra el coche 66En cola: 66
+Entra el coche -329Buscamos el coche -329En cola: 388
+Buscamos el coche -329En cola: 66
+ DESAPARCA
+ y entra el coche en cola 388
+Entra el coche 388 APARCA
+Entra el coche -270Buscamos el coche -270En cola: 66
+ DESAPARCA
+ y entra el coche en cola 66
+Entra el coche 66 APARCA
+Entra el coche 52En cola: 52
+Entra el coche -87Buscamos el coche -87En cola: 52
+ DESAPARCA
+ y entra el coche en cola 52
+Entra el coche 52 APARCA
+Entra el coche -300 DESAPARCA
+Entra el coche -388 DESAPARCA
+Entra el coche -158 DESAPARCA
+Entra el coche -52 DESAPARCA
+Entra el coche -269 DESAPARCA
+Entra el coche -93 DESAPARCA
+Entra el coche 386 APARCA
+Entra el coche 212 APARCA
+Entra el coche -212 DESAPARCA
+Entra el coche -178 DESAPARCA
+Entra el coche 108 APARCA
+Entra el coche 377 APARCA
+Entra el coche -271 DESAPARCA
+Entra el coche 352 APARCA
+Entra el coche -242 DESAPARCA
+Entra el coche -69 DESAPARCA
+Entra el coche -108 DESAPARCA
+Entra el coche 199 APARCA
+Entra el coche -268 DESAPARCA
+Entra el coche 172 APARCA
+Entra el coche -294 DESAPARCA
+Entra el coche 219 APARCA
+Entra el coche 101 APARCA
+Entra el coche 383 APARCA
+Entra el coche 63 APARCA
+Entra el coche -21 DESAPARCA
+Entra el coche 164 APARCA
+Entra el coche 243 APARCA
+Entra el coche 111 APARCA
+Entra el coche 283 APARCA
+Entra el coche -285 DESAPARCA
+Entra el coche 357 APARCA
+Entra el coche -247 DESAPARCA
+Entra el coche -74 DESAPARCA
+Entra el coche -172 DESAPARCA
+Entra el coche -136 DESAPARCA
+Entra el coche 141 APARCA
+Entra el coche 173 APARCA
+Entra el coche 171 APARCA
+Entra el coche -211 DESAPARCA
+Entra el coche 333 APARCA
+Entra el coche -357 DESAPARCA
+Entra el coche -383 DESAPARCA
+Entra el coche 376 APARCA
+Entra el coche 384 APARCA
+Entra el coche -127 DESAPARCA
+Entra el coche -60 DESAPARCA
+Entra el coche 165 APARCA
+Entra el coche 295 APARCA
+Entra el coche 166 APARCA
+Entra el coche 105En cola: 105
+Entra el coche 346En cola: 346
+Entra el coche -243Buscamos el coche -243En cola: 105
+Buscamos el coche -243En cola: 346
+ DESAPARCA
+ y entra el coche en cola 105
+Entra el coche 105 APARCA
+Entra el coche -180Buscamos el coche -180En cola: 346
+ DESAPARCA
+ y entra el coche en cola 346
+Entra el coche 346 APARCA
+Entra el coche -173 DESAPARCA
+Entra el coche -219 DESAPARCA
+Entra el coche -386 DESAPARCA
+Entra el coche -376 DESAPARCA
+Entra el coche 14 APARCA
+Entra el coche 266 APARCA
+Entra el coche 241 APARCA
+Entra el coche -190 DESAPARCA
+Entra el coche -352 DESAPARCA
+Entra el coche -111 DESAPARCA
+Entra el coche 207 APARCA
+Entra el coche -207 DESAPARCA
+Entra el coche -14 DESAPARCA
+Entra el coche 327 APARCA
+Entra el coche -181 DESAPARCA
+Entra el coche 399 APARCA
+Entra el coche -66 DESAPARCA
+Entra el coche -327 DESAPARCA
+Entra el coche 189 APARCA
+Entra el coche -382 DESAPARCA
+Entra el coche -266 DESAPARCA
+Entra el coche -105 DESAPARCA
+Entra el coche 206 APARCA
+Entra el coche -171 DESAPARCA
+Entra el coche 39 APARCA
+Entra el coche -306 DESAPARCA
+Entra el coche 132 APARCA
+Entra el coche 315 APARCA
+Entra el coche -31 DESAPARCA
+Entra el coche -295 DESAPARCA
+Entra el coche -141 DESAPARCA
+Entra el coche -399 DESAPARCA
+Entra el coche 246 APARCA
+Entra el coche -39 DESAPARCA
+Entra el coche -101 DESAPARCA
+Entra el coche 354 APARCA
+Entra el coche 112 APARCA
+Entra el coche 397 APARCA
+Entra el coche 109 APARCA
+Entra el coche 367 APARCA
+Entra el coche -246 DESAPARCA
+Entra el coche -109 DESAPARCA
+Entra el coche 23 APARCA
+Entra el coche 312 APARCA
+Entra el coche -377 DESAPARCA
+Entra el coche 348 APARCA
+Entra el coche -168 DESAPARCA
+Entra el coche -367 DESAPARCA
+Entra el coche -164 DESAPARCA
+Entra el coche 254 APARCA
+Entra el coche -397 DESAPARCA
+Entra el coche 249 APARCA
+Entra el coche 68 APARCA
+Entra el coche 244 APARCA
+Entra el coche -283 DESAPARCA
+Entra el coche -23 DESAPARCA
+Entra el coche -312 DESAPARCA
+Entra el coche -384 DESAPARCA
+Entra el coche 89 APARCA
+Entra el coche -165 DESAPARCA
+Entra el coche 279 APARCA
+Entra el coche -63 DESAPARCA
+Entra el coche -89 DESAPARCA
+Entra el coche -68 DESAPARCA
+Entra el coche -315 DESAPARCA
+Entra el coche 99 APARCA
+Entra el coche 186 APARCA
+Entra el coche 349 APARCA
+Entra el coche 152 APARCA
+Entra el coche -166 DESAPARCA
+Entra el coche -241 DESAPARCA
+Entra el coche 54 APARCA
+Entra el coche 48 APARCA
+Entra el coche 289 APARCA
+Entra el coche 187 APARCA
+Entra el coche -112 DESAPARCA
+Entra el coche 334 APARCA
+Entra el coche -206 DESAPARCA
+Entra el coche 156 APARCA
+Entra el coche 58 APARCA
+Entra el coche -249 DESAPARCA
+Entra el coche 90 APARCA
+Entra el coche 40 APARCA
+Entra el coche -48 DESAPARCA
+Entra el coche -289 DESAPARCA
+Entra el coche 126 APARCA
+Entra el coche 37 APARCA
+Entra el coche -354 DESAPARCA
+Entra el coche 153 APARCA
+Entra el coche 314 APARCA
+Entra el coche 235 APARCA
+Entra el coche -187 DESAPARCA
+Entra el coche 227 APARCA
+Entra el coche 231 APARCA
+Entra el coche -99 DESAPARCA
+Entra el coche -349 DESAPARCA
+Entra el coche -333 DESAPARCA
+Entra el coche 142 APARCA
+Entra el coche -235 DESAPARCA
+Entra el coche -126 DESAPARCA
+Entra el coche 120 APARCA
+Entra el coche -100 DESAPARCA
+Entra el coche 350 APARCA
+Entra el coche 149 APARCA
+Entra el coche -244 DESAPARCA
+Entra el coche -29 DESAPARCA
+Entra el coche -149 DESAPARCA
+Entra el coche 104 APARCA
+Entra el coche 194 APARCA
+Entra el coche -314 DESAPARCA
+Entra el coche 299 APARCA
+Entra el coche 325 APARCA
+Entra el coche 57 APARCA
+Entra el coche 313 APARCA
+Entra el coche 296 APARCA
+Entra el coche 123 APARCA
+Entra el coche -346 DESAPARCA
+Entra el coche 393 APARCA
+Entra el coche -199 DESAPARCA
+Entra el coche 16 APARCA
+Entra el coche 94En cola: 94
+Entra el coche -152Buscamos el coche -152En cola: 94
+ DESAPARCA
+ y entra el coche en cola 94
+Entra el coche 94 APARCA
+Entra el coche -58 DESAPARCA
+Entra el coche -57 DESAPARCA
+Entra el coche 76 APARCA
+Entra el coche 13 APARCA
+Entra el coche -313 DESAPARCA
+Entra el coche -279 DESAPARCA
+Entra el coche 326 APARCA
+Entra el coche 213 APARCA
+Entra el coche 91En cola: 91
+Entra el coche 192En cola: 192
+Entra el coche -40Buscamos el coche -40En cola: 91
+Buscamos el coche -40En cola: 192
+ DESAPARCA
+ y entra el coche en cola 91
+Entra el coche 91 APARCA
+Entra el coche 303En cola: 303
+Entra el coche 392En cola: 392
+Entra el coche 18En cola: 18
+Entra el coche 363En cola: 363
+Entra el coche -16Buscamos el coche -16En cola: 192
+Buscamos el coche -16En cola: 303
+Buscamos el coche -16En cola: 392
+Buscamos el coche -16En cola: 18
+Buscamos el coche -16En cola: 363
+ DESAPARCA
+ y entra el coche en cola 192
+Entra el coche 192 APARCA
+Entra el coche 121En cola: 121
+Entra el coche 210En cola: 210
+Entra el coche -325Buscamos el coche -325En cola: 303
+Buscamos el coche -325En cola: 392
+Buscamos el coche -325En cola: 18
+Buscamos el coche -325En cola: 363
+Buscamos el coche -325En cola: 121
+Buscamos el coche -325En cola: 210
+ DESAPARCA
+ y entra el coche en cola 303
+Entra el coche 303 APARCA
+Entra el coche 135En cola: 135
+Entra el coche -123Buscamos el coche -123En cola: 392
+Buscamos el coche -123En cola: 18
+Buscamos el coche -123En cola: 363
+Buscamos el coche -123En cola: 121
+Buscamos el coche -123En cola: 210
+Buscamos el coche -123En cola: 135
+ DESAPARCA
+ y entra el coche en cola 392
+Entra el coche 392 APARCA
+Entra el coche 318En cola: 318
+Entra el coche 389En cola: 389
+Entra el coche -318Buscamos el coche -318En cola: 18
+Buscamos el coche -318En cola: 363
+Buscamos el coche -318En cola: 121
+Buscamos el coche -318En cola: 210
+Buscamos el coche -318En cola: 135
+Buscamos el coche -318En cola: 318
+Entra el coche -389Buscamos el coche -389En cola: 18
+Buscamos el coche -389En cola: 363
+Buscamos el coche -389En cola: 121
+Buscamos el coche -389En cola: 210
+Buscamos el coche -389En cola: 135
+Buscamos el coche -389En cola: 389
+Entra el coche 200En cola: 200
+Entra el coche 259En cola: 259
+Entra el coche 281En cola: 281
+Entra el coche -393Buscamos el coche -393En cola: 18
+Buscamos el coche -393En cola: 363
+Buscamos el coche -393En cola: 121
+Buscamos el coche -393En cola: 210
+Buscamos el coche -393En cola: 135
+Buscamos el coche -393En cola: 200
+Buscamos el coche -393En cola: 259
+Buscamos el coche -393En cola: 281
+ DESAPARCA
+ y entra el coche en cola 18
+Entra el coche 18 APARCA
+Entra el coche 275En cola: 275
+Entra el coche -296Buscamos el coche -296En cola: 363
+Buscamos el coche -296En cola: 121
+Buscamos el coche -296En cola: 210
+Buscamos el coche -296En cola: 135
+Buscamos el coche -296En cola: 200
+Buscamos el coche -296En cola: 259
+Buscamos el coche -296En cola: 281
+Buscamos el coche -296En cola: 275
+ DESAPARCA
+ y entra el coche en cola 363
+Entra el coche 363 APARCA
+Entra el coche -363Buscamos el coche -363En cola: 121
+Buscamos el coche -363En cola: 210
+Buscamos el coche -363En cola: 135
+Buscamos el coche -363En cola: 200
+Buscamos el coche -363En cola: 259
+Buscamos el coche -363En cola: 281
+Buscamos el coche -363En cola: 275
+ DESAPARCA
+ y entra el coche en cola 121
+Entra el coche 121 APARCA
+Entra el coche -186Buscamos el coche -186En cola: 210
+Buscamos el coche -186En cola: 135
+Buscamos el coche -186En cola: 200
+Buscamos el coche -186En cola: 259
+Buscamos el coche -186En cola: 281
+Buscamos el coche -186En cola: 275
+ DESAPARCA
+ y entra el coche en cola 210
+Entra el coche 210 APARCA
+Entra el coche -104Buscamos el coche -104En cola: 135
+Buscamos el coche -104En cola: 200
+Buscamos el coche -104En cola: 259
+Buscamos el coche -104En cola: 281
+Buscamos el coche -104En cola: 275
+ DESAPARCA
+ y entra el coche en cola 135
+Entra el coche 135 APARCA
+Entra el coche 373En cola: 373
+Entra el coche 103En cola: 103
+Entra el coche -94Buscamos el coche -94En cola: 200
+Buscamos el coche -94En cola: 259
+Buscamos el coche -94En cola: 281
+Buscamos el coche -94En cola: 275
+Buscamos el coche -94En cola: 373
+Buscamos el coche -94En cola: 103
+ DESAPARCA
+ y entra el coche en cola 200
+Entra el coche 200 APARCA
+Entra el coche -54Buscamos el coche -54En cola: 259
+Buscamos el coche -54En cola: 281
+Buscamos el coche -54En cola: 275
+Buscamos el coche -54En cola: 373
+Buscamos el coche -54En cola: 103
+ DESAPARCA
+ y entra el coche en cola 259
+Entra el coche 259 APARCA
+Entra el coche 297En cola: 297
+Entra el coche -227Buscamos el coche -227En cola: 281
+Buscamos el coche -227En cola: 275
+Buscamos el coche -227En cola: 373
+Buscamos el coche -227En cola: 103
+Buscamos el coche -227En cola: 297
+ DESAPARCA
+ y entra el coche en cola 281
+Entra el coche 281 APARCA
+Entra el coche 148En cola: 148
+Entra el coche 92En cola: 92
+Entra el coche -13Buscamos el coche -13En cola: 275
+Buscamos el coche -13En cola: 373
+Buscamos el coche -13En cola: 103
+Buscamos el coche -13En cola: 297
+Buscamos el coche -13En cola: 148
+Buscamos el coche -13En cola: 92
+ DESAPARCA
+ y entra el coche en cola 275
+Entra el coche 275 APARCA
+Entra el coche -254Buscamos el coche -254En cola: 373
+Buscamos el coche -254En cola: 103
+Buscamos el coche -254En cola: 297
+Buscamos el coche -254En cola: 148
+Buscamos el coche -254En cola: 92
+ DESAPARCA
+ y entra el coche en cola 373
+Entra el coche 373 APARCA
+Entra el coche -350Buscamos el coche -350En cola: 103
+Buscamos el coche -350En cola: 297
+Buscamos el coche -350En cola: 148
+Buscamos el coche -350En cola: 92
+ DESAPARCA
+ y entra el coche en cola 103
+Entra el coche 103 APARCA
+Entra el coche -37Buscamos el coche -37En cola: 297
+Buscamos el coche -37En cola: 148
+Buscamos el coche -37En cola: 92
+ DESAPARCA
+ y entra el coche en cola 297
+Entra el coche 297 APARCA
+Entra el coche 46En cola: 46
+Entra el coche -194Buscamos el coche -194En cola: 148
+Buscamos el coche -194En cola: 92
+Buscamos el coche -194En cola: 46
+ DESAPARCA
+ y entra el coche en cola 148
+Entra el coche 148 APARCA
+Entra el coche -132Buscamos el coche -132En cola: 92
+Buscamos el coche -132En cola: 46
+ DESAPARCA
+ y entra el coche en cola 92
+Entra el coche 92 APARCA
+Entra el coche 260En cola: 260
+Entra el coche 237En cola: 237
+Entra el coche -90Buscamos el coche -90En cola: 46
+Buscamos el coche -90En cola: 260
+Buscamos el coche -90En cola: 237
+ DESAPARCA
+ y entra el coche en cola 46
+Entra el coche 46 APARCA
+Entra el coche 25En cola: 25
+Entra el coche 338En cola: 338
+Entra el coche -192Buscamos el coche -192En cola: 260
+Buscamos el coche -192En cola: 237
+Buscamos el coche -192En cola: 25
+Buscamos el coche -192En cola: 338
+ DESAPARCA
+ y entra el coche en cola 260
+Entra el coche 260 APARCA
+Entra el coche -231Buscamos el coche -231En cola: 237
+Buscamos el coche -231En cola: 25
+Buscamos el coche -231En cola: 338
+ DESAPARCA
+ y entra el coche en cola 237
+Entra el coche 237 APARCA
+Entra el coche -103Buscamos el coche -103En cola: 25
+Buscamos el coche -103En cola: 338
+ DESAPARCA
+ y entra el coche en cola 25
+Entra el coche 25 APARCA
+Entra el coche -334Buscamos el coche -334En cola: 338
+ DESAPARCA
+ y entra el coche en cola 338
+Entra el coche 338 APARCA
+Entra el coche -260 DESAPARCA
+Entra el coche -121 DESAPARCA
+Entra el coche -92 DESAPARCA
+Entra el coche -135 DESAPARCA
+Entra el coche -213 DESAPARCA
+Entra el coche -76 DESAPARCA
+Entra el coche -200 DESAPARCA
+Entra el coche -392 DESAPARCA
+Entra el coche -281 DESAPARCA
+Entra el coche -148 DESAPARCA
+Entra el coche -275 DESAPARCA
+Entra el coche -189 DESAPARCA
+Entra el coche -373 DESAPARCA
+Entra el coche -120 DESAPARCA
+Entra el coche -210 DESAPARCA
+Entra el coche -338 DESAPARCA
+Entra el coche -259 DESAPARCA
+Entra el coche -142 DESAPARCA
+Entra el coche -156 DESAPARCA
+Entra el coche -348 DESAPARCA
+Entra el coche -297 DESAPARCA
+Entra el coche -91 DESAPARCA
+Entra el coche -25 DESAPARCA
+Entra el coche -303 DESAPARCA
+Entra el coche -299 DESAPARCA
+Entra el coche -18 DESAPARCA
+Entra el coche -326 DESAPARCA
+Entra el coche -153 DESAPARCA
+Entra el coche -46 DESAPARCA
+Entra el coche -237 DESAPARCA
+209378
